@@ -1,0 +1,22 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "pack.name",
+    "description": "pack.description",
+    "uuid": "49783c4c-6a1c-406a-b204-a553a1ca17bc",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 17, 41]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "d6df5d0c-4ea7-4d1f-aeaa-868d5e37ea1e",
+      "version": [1, 0, 0]
+    }
+  ],
+  "metadata": {
+    "authors": ["Murzik179"],
+    "license": "CC BY-NC-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  }
+}
